@@ -14,7 +14,7 @@
 
 ## Neural Network Model
 
-![image](https://github.com/PSriVarshan/basic-nn-model/assets/114944059/287ff64c-ad39-4d7f-bc9d-d27e0897258a)
+![image](https://github.com/PSriVarshan/basic-nn-model/assets/114944059/4b81f952-bf11-4e78-b7f8-a1b79090ed09)
 
 
 ## DESIGN STEPS
@@ -122,8 +122,8 @@ err(y_test,preds)
 x_n1 = [[9]]
 x_n_n = scaler.transform(x_n1)
 ai_brain.predict(x_n_n)
-
 ```
+
 ## Dataset Information
 
 ![image](https://github.com/PSriVarshan/basic-nn-model/assets/114944059/ce55eff8-d273-45a6-88a5-75a315e7859e)
