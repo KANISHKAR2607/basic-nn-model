@@ -14,7 +14,8 @@
 
 ## Neural Network Model
 
-![image](https://github.com/PSriVarshan/basic-nn-model/assets/114944059/4b81f952-bf11-4e78-b7f8-a1b79090ed09)
+![image](https://github.com/KANISHKAR2607/basic-nn-model/assets/118886772/d86e5152-9865-44fa-9653-33a2fef3d201)
+
 
 
 ## DESIGN STEPS
@@ -126,24 +127,28 @@ ai_brain.predict(x_n_n)
 
 ## Dataset Information
 
-![image](https://github.com/PSriVarshan/basic-nn-model/assets/114944059/ce55eff8-d273-45a6-88a5-75a315e7859e)
+![image](https://github.com/KANISHKAR2607/basic-nn-model/assets/118886772/1762c747-b50c-44d8-9a9a-4fa5cd6c6a6a)
+
 
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-![image](https://github.com/PSriVarshan/basic-nn-model/assets/114944059/9ee62e31-4b9b-4c3d-9930-d4355427add3)
+![image](https://github.com/KANISHKAR2607/basic-nn-model/assets/118886772/226bd5da-0cb2-418d-a776-fdda09fe9335)
+
 
 
 ### Test Data Root Mean Squared Error
 
-![image](https://github.com/PSriVarshan/basic-nn-model/assets/114944059/e5e1aadd-8289-4a77-8e4c-7a9d013fc7cf)
+![image](https://github.com/KANISHKAR2607/basic-nn-model/assets/118886772/d13235bf-cf60-4eae-9790-2f7bddcde32b)
+
 
 
 ### New Sample Data Prediction
 
-![image](https://github.com/PSriVarshan/basic-nn-model/assets/114944059/25faf495-8cf9-44a9-b189-09c8f8f7dfb2)
+![image](https://github.com/KANISHKAR2607/basic-nn-model/assets/118886772/209ab582-72cf-4e16-9eb9-4d4b6c361422)
+
 
 ## RESULT
 
